@@ -1,0 +1,10 @@
+body,
+html {
+  overflow: hidden;
+}
+
+.leaflet-container {
+  height: 800px;
+  width: 90%;
+  margin: 0 auto;
+}
